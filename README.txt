@@ -13,6 +13,8 @@ Inorder to run open main.py
 an exception is added to the folder named 'MagicalPy', no effect will 
 be taken inside the files 
 
+Thanks!
+
 
 
 
