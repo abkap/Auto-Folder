@@ -6,4 +6,3 @@ from constants import path_source
 while True:
     selfdefined.doTheWork(path_source)
     sleep(0.01)
-
